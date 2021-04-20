@@ -43,7 +43,7 @@ setup(
             "more-itertools==8.0.0",
             "packaging==19.2",
             "pluggy==0.13.1",
-            "py==1.8.0",
+            "py==1.10.0",
             "pygments==2.5.2",
             "pyparsing==2.4.5",
             "pytest==5.3.1",
